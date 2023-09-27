@@ -122,6 +122,7 @@ button{
     body{
         display: block;
         margin: auto;
+        /*AJUSTAR A RESPONSIVIDADE A PARTIR DO BODY*/
     }
     main{
         width: 100vw;
